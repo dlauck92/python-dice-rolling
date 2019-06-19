@@ -11,7 +11,7 @@
 
 ## What it does
 
-Terminal will prompt user if he/she wants to roll the dice, the user will select 'y' for yes or no. The user is allowed to roll twice and the simulator will add the random amounts then display them for the user.
+Terminal will prompt user if he/she wants to roll the dice, the user will select 'y' for yes or 'n' no. The user is allowed to roll twice and the simulator will add the random amounts then display them for the user.
 
 ## Installation
 
