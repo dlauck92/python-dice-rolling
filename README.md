@@ -1,9 +1,13 @@
 # Python Dice Roll Simulator
-> 1st project using python 3.
-What I learned: 
-reading a source file
-f-strings
-pass statements
+> 1st project using python 3
+
+## What I learned:
+- basic python syntax
+- no more semicolons!!
+- very similar to JavaScript logic
+- reading a source file
+- f-strings
+- pass statements
 
 ## What it does
 
