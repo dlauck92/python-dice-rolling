@@ -1,6 +1,9 @@
 # Python Dice Roll Simulator
 > 1st project using python 3.
->What I learned: reading a source file, f-strings, pass statements
+What I learned: 
+reading a source file
+f-strings
+pass statements
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
