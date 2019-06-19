@@ -5,13 +5,9 @@ reading a source file
 f-strings
 pass statements
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+## What it does
 
-One to two paragraph statement about your product and what it does.
-
-![](header.png)
+Terminal will prompt user if he/she wants to roll the dice, the user will select 'y' for yes or no. The user is allowed to roll twice and the simulator will add the random amounts then display them for the user.
 
 ## Installation
 
